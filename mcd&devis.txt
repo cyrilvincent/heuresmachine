@@ -1,0 +1,98 @@
+Actuellement
+============
+
+Personne
+TypeMachine
+Client
+Temps 	-1 TypeMachine
+	-1 Client
+	-1 Personne
+Previsionnel	-1 Client
+		-1 TypeMachine
+SaisieHeures	Non utilisé 
+
+Après refactorisation
+=====================
+
+User	*-1 Role
+	*-1 Service
+Provisional (num_serie, indice, archive)
+Provisional	*-1 Client
+		*-1 MachineType
+Hours	*-1 Provisional
+	*-1 User
+
+Ecrans
+======
+
+Login
+Users
+User
+Provisionals
+Provisional
+Hours
+Hour
+Export
+
+Componants
+========== 
+App
+Login
+Users
+User
+SearchUsers
+UserService
+Provisionals
+SearchProvisionals
+Provisional
+ProvisionalClient
+ProvisionalMachineType
+Hours
+SearchHours
+Hour
+HourUser
+Export
+ExportExcel
+
+Temps
+=====
+MCD : 0.5j
+EF : 0.5j
+Recup Data ADO+EF : 0.5j
+Template NG : 0.5j
+.NET Services Core : 0.5j
+NG Services Core : 0.5j
+Componants : 0.5+0.25+0.5+0.5+0.75+0.25+0.5+0.5+0.5+0.25+0.25+0.5+0.25+0.5+0.25+0.5+0.5=7.5j
+Tests : 0.5j
+Livraison : 1j
+Réunions : 1j
+Bugs : 1j
+Total : 14j
+
+Devis 1 avec Vlady
+==================
+Vlady : 7.5K€
+Moi : 5 K€
+Total : 12.5K€
+
+Devis 2 Moi
+===========
+Moi entièrement : 14*1.2 = 17K€
+
+Devis 3 Uniquement les corrections
+==================================
+Réunions : 0.5j
+Récupération code : 0.5j
+Point 1 : 0.1j
+Point 2 : 0.25j
+Point 3 : Ajouter colonne archive + modifier les requêtes : 1j
+Point 4 : 0.25j
+Point 5 : 0.5j
+Point 6 : 0.25j
+Point 7 : Faire une FK Temps *-1 Previsionnel + changer les requêtes : 1.5j
+Point 8 : 0.25j
+Point 9.1 : 0.25j
+Point 9.2 : 0.75j
+Point 10 : 0.1j
+Mise en prod : 1j
+Total : 7.5j * 1.2 = 9K€

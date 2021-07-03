@@ -1,0 +1,1101 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HeuresMachineWEB
+</name>
+</assembly>
+<members>
+<member name="T:HeuresMachineWEB.My.MyWebExtension">
+ <summary>
+ Module utilisé pour définir les propriétés qui sont disponibles dans My Namespace pour les projets Web.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:HeuresMachineWEB.My.MyWebExtension.Computer">
+ <summary>
+ Retourne les informations relatives à l'ordinateur hôte.
+ </summary>
+</member>
+<member name="P:HeuresMachineWEB.My.MyWebExtension.User">
+ <summary>
+ Retourne des informations pour l'utilisateur Web actuel.
+ </summary>
+</member>
+<member name="P:HeuresMachineWEB.My.MyWebExtension.Request">
+ <summary>
+ Retourne l'objet Request.
+ </summary>
+</member>
+<member name="P:HeuresMachineWEB.My.MyWebExtension.Response">
+ <summary>
+ Retourne l'objet Response.
+ </summary>
+</member>
+<member name="P:HeuresMachineWEB.My.MyWebExtension.Log">
+ <summary>
+ Retourne l'objet de journal Asp.
+ </summary>
+</member>
+<member name="T:HeuresMachineWEB.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:HeuresMachineWEB.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:HeuresMachineWEB.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="F:HeuresMachineWEB.AddUser._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.AddUser._Image1">
+<summary>
+Contrôle Image1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.AddUser._TxtNom">
+<summary>
+Contrôle TxtNom.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.AddUser._TxtCwid">
+<summary>
+Contrôle TxtCwid.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.AddUser._txtpassword">
+<summary>
+Contrôle txtpassword.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.AddUser._CmbAcces">
+<summary>
+Contrôle CmbAcces.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.AddUser._BtnSave">
+<summary>
+Contrôle BtnSave.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.AddUser._BtnCancel">
+<summary>
+Contrôle BtnCancel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.HmiCustomer._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.HmiCustomer._Label1">
+<summary>
+Contrôle Label1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.HmiCustomer._TxtName">
+<summary>
+Contrôle TxtName.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.HmiCustomer._TxtCity">
+<summary>
+Contrôle TxtCity.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.HmiCustomer._Label2">
+<summary>
+Contrôle Label2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.HmiCustomer._TxtCountry">
+<summary>
+Contrôle TxtCountry.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.HmiCustomer._Label3">
+<summary>
+Contrôle Label3.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.HmiCustomer._CmbArea">
+<summary>
+Contrôle CmbArea.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.HmiCustomer._BtnCancel">
+<summary>
+Contrôle BtnCancel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.HmiCustomer._BtnSave">
+<summary>
+Contrôle BtnSave.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.login._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.login._Image1">
+<summary>
+Contrôle Image1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.login._txtuser">
+<summary>
+Contrôle txtuser.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.login._txtPassword">
+<summary>
+Contrôle txtPassword.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.login._btnConn">
+<summary>
+Contrôle btnConn.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.login._Image2">
+<summary>
+Contrôle Image2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.MasterPage._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.MasterPage._Menu1">
+<summary>
+Contrôle Menu1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.MasterPage._Menu2">
+<summary>
+Contrôle Menu2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._Image1">
+<summary>
+Contrôle Image1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._TxtNumber">
+<summary>
+Contrôle TxtNumber.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._TxtIndice">
+<summary>
+Contrôle TxtIndice.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._TxtDescriptif">
+<summary>
+Contrôle TxtDescriptif.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._TxtCustomer">
+<summary>
+Contrôle TxtCustomer.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._BtnCustomer">
+<summary>
+Contrôle BtnCustomer.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._BtnAddCustomer">
+<summary>
+Contrôle BtnAddCustomer.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._CmbModele">
+<summary>
+Contrôle CmbModele.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._TxtBEM">
+<summary>
+Contrôle TxtBEM.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._TxtBEE">
+<summary>
+Contrôle TxtBEE.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._TxtBEA">
+<summary>
+Contrôle TxtBEA.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._BtnAdd">
+<summary>
+Contrôle BtnAdd.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.Previsonnel._Btncancel">
+<summary>
+Contrôle Btncancel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchCustomer._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchCustomer._Label1">
+<summary>
+Contrôle Label1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchCustomer._Label2">
+<summary>
+Contrôle Label2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchCustomer._TxtName">
+<summary>
+Contrôle TxtName.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchCustomer._TxtCountry">
+<summary>
+Contrôle TxtCountry.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchCustomer._BtnSearch">
+<summary>
+Contrôle BtnSearch.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchCustomer._GrdClientList">
+<summary>
+Contrôle GrdClientList.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchCustomer._ObjectDataSource1">
+<summary>
+Contrôle ObjectDataSource1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchserialNumber._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchserialNumber._TxtserialNumber">
+<summary>
+Contrôle TxtserialNumber.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchserialNumber._TxtMachine">
+<summary>
+Contrôle TxtMachine.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchserialNumber._TxtCustomer">
+<summary>
+Contrôle TxtCustomer.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchserialNumber._BtnSearch">
+<summary>
+Contrôle BtnSearch.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchserialNumber._BtnPrev">
+<summary>
+Contrôle BtnPrev.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchserialNumber._BtnSaisi">
+<summary>
+Contrôle BtnSaisi.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchserialNumber._GrdPrev">
+<summary>
+Contrôle GrdPrev.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchserialNumber._ObjectDataSource1">
+<summary>
+Contrôle ObjectDataSource1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._Image1">
+<summary>
+Contrôle Image1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._txtSerialNumber">
+<summary>
+Contrôle txtSerialNumber.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._TxtIndice">
+<summary>
+Contrôle TxtIndice.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._TxtMachine">
+<summary>
+Contrôle TxtMachine.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._TxtCustomer">
+<summary>
+Contrôle TxtCustomer.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._TxtNom">
+<summary>
+Contrôle TxtNom.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._TxtService">
+<summary>
+Contrôle TxtService.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._Btnsearch">
+<summary>
+Contrôle Btnsearch.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._BtnPrev">
+<summary>
+Contrôle BtnPrev.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._BtnAddUser">
+<summary>
+Contrôle BtnAddUser.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._BtnVue">
+<summary>
+Contrôle BtnVue.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._GrdTime">
+<summary>
+Contrôle GrdTime.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchTempsSaisi._ObjectDataSource1">
+<summary>
+Contrôle ObjectDataSource1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchUser._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchUser._TxtName">
+<summary>
+Contrôle TxtName.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchUser._TxtAcces">
+<summary>
+Contrôle TxtAcces.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchUser._BtnSearch">
+<summary>
+Contrôle BtnSearch.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchUser._BtnAddUser">
+<summary>
+Contrôle BtnAddUser.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchUser._GrdUsers">
+<summary>
+Contrôle GrdUsers.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchUser._ObjectDataSource1">
+<summary>
+Contrôle ObjectDataSource1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.ResearchUser._BtnCancel">
+<summary>
+Contrôle BtnCancel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._Image1">
+<summary>
+Contrôle Image1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._Label1">
+<summary>
+Contrôle Label1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._TxtNumber">
+<summary>
+Contrôle TxtNumber.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._TxtIndice">
+<summary>
+Contrôle TxtIndice.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._TxtDescriptif">
+<summary>
+Contrôle TxtDescriptif.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._TxtClient">
+<summary>
+Contrôle TxtClient.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._CmbModeles">
+<summary>
+Contrôle CmbModeles.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._Lbldate1">
+<summary>
+Contrôle Lbldate1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._txtDate1">
+<summary>
+Contrôle txtDate1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._LblTemps1">
+<summary>
+Contrôle LblTemps1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._TxtTemps1">
+<summary>
+Contrôle TxtTemps1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._LblCwid1">
+<summary>
+Contrôle LblCwid1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._CmbCwid1">
+<summary>
+Contrôle CmbCwid1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._LblNom1">
+<summary>
+Contrôle LblNom1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._TxtNom1">
+<summary>
+Contrôle TxtNom1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._LblService1">
+<summary>
+Contrôle LblService1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._CmbService1">
+<summary>
+Contrôle CmbService1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._Btnajout">
+<summary>
+Contrôle Btnajout.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._CldDate">
+<summary>
+Contrôle CldDate.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._BtnSave">
+<summary>
+Contrôle BtnSave.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._BtnModifier">
+<summary>
+Contrôle BtnModifier.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.SaisieHeures._BtnCancel">
+<summary>
+Contrôle BtnCancel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._form2">
+<summary>
+Contrôle form2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._Image1">
+<summary>
+Contrôle Image1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._txtSerialNumber">
+<summary>
+Contrôle txtSerialNumber.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._txtIndice">
+<summary>
+Contrôle txtIndice.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._txtCustomer">
+<summary>
+Contrôle txtCustomer.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._txtMachine">
+<summary>
+Contrôle txtMachine.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._txtnom">
+<summary>
+Contrôle txtnom.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._txtService">
+<summary>
+Contrôle txtService.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._Txtdate">
+<summary>
+Contrôle Txtdate.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._BtnSearch">
+<summary>
+Contrôle BtnSearch.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._BtnSaisie">
+<summary>
+Contrôle BtnSaisie.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._GrdTime">
+<summary>
+Contrôle GrdTime.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:HeuresMachineWEB.VueExport._ObjectDataSource1">
+<summary>
+Contrôle ObjectDataSource1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+</members>
+</doc>

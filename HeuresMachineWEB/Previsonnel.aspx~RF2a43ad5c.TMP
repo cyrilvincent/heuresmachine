@@ -1,0 +1,22 @@
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Previsonnel.aspx.vb" Inherits="HeuresMAchineWEB.Previsonnel" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <style type="text/css">
+        #form1 {
+            height: 332px;
+            width: 753px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:TextBox ID="TextBox2" runat="server" style="margin-left: 84px"></asp:TextBox>
+        <asp:TextBox ID="TextBox1" runat="server" style="margin-left: 16px"></asp:TextBox>
+    </form>
+</body>
+</html>

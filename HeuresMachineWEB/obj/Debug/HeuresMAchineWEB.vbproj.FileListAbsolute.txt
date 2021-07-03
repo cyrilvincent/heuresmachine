@@ -1,0 +1,186 @@
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbprojResolveAssemblyReference.cache
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.Resources.resources
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbproj.GenerateResource.cache
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbproj.CoreCompileInputs.cache
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\HeuresMachineWEB.dll.config
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\HeuresMachineWEB.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\HeuresMachineWEB.pdb
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\HeuresMachineWEB.xml
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csc.exe
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csc.exe.config
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csc.rsp
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csi.exe
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csi.exe.config
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csi.rsp
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.AppContext.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Console.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Threading.Thread.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\vbc.exe
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\vbc.exe.config
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\vbc.rsp
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbproj.CopyComplete
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.dll
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.xml
+C:\Users\CXKVN\Documents\Visual Studio 2017\Projects\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.pdb
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\HeuresMachineWEB.dll.config
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\HeuresMachineWEB.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\HeuresMachineWEB.pdb
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\HeuresMachineWEB.xml
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csc.exe
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csc.exe.config
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csc.rsp
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csi.exe
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csi.exe.config
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\csi.rsp
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.AppContext.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Collections.Immutable.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Console.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Diagnostics.Process.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.IO.Compression.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.IO.FileSystem.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.IO.Pipes.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Reflection.Metadata.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.AccessControl.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Claims.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Threading.Thread.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.ValueTuple.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Xml.XPath.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\vbc.exe
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\vbc.exe.config
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\vbc.rsp
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\VBCSCompiler.exe
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\roslyn\VBCSCompiler.exe.config
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbprojResolveAssemblyReference.cache
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.Resources.resources
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbproj.GenerateResource.cache
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbproj.CoreCompileInputs.cache
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbproj.CopyComplete
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.dll
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.xml
+Z:\IT\DEV\HeuresMachineWEB\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.pdb
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\HeuresMachineWEB.dll.config
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\HeuresMachineWEB.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\HeuresMachineWEB.pdb
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\HeuresMachineWEB.xml
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\csc.exe
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\csc.exe.config
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\csc.rsp
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\csi.exe
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\csi.exe.config
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\csi.rsp
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.AppContext.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Console.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Threading.Thread.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\vbc.exe
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\vbc.exe.config
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\vbc.rsp
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbprojAssemblyReference.cache
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.Resources.resources
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbproj.GenerateResource.cache
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbproj.CoreCompileInputs.cache
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\obj\Debug\HeuresMAchineWEB.vbproj.CopyComplete
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.dll
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.xml
+C:\Users\conta\CVC\Covestro\HeuresMachine\ProjetVS\HeuresMAchineWEB\obj\Debug\HeuresMachineWEB.pdb
